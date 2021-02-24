@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Oct 30 18:39:53 2020
+Program for calculating the tempreture fahrenheit to celsius
 
 @author: samadhan
 """
