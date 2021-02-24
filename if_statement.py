@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Oct 30 19:28:45 2020
+Program for if else statement:
 
 @author: samadhan
 """
